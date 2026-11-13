@@ -1,7 +1,7 @@
 [project]
 name = "ruzgar"
 version = "0.1.0"
-description = "Add your description here"
+description = "Post-processing day-ahead GFS wind forecasts for Izmir (LTBJ) with ML"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
